@@ -1,0 +1,4 @@
+/* add drop shadow to header to make it more visible on bright backrounds */
+.intro-header {
+	text-shadow: 1px 1px #000000;
+}
