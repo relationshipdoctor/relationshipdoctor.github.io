@@ -1,3 +1,9 @@
+---
+layout:     post
+title:      "Love & Ego"
+header-img: "img/couple-kiss.jpg"
+---
+
 It is correct to consider 'Ego' to the 'Self' or 'I' and egotism to be an overinflated view of ones self - so it is egotism really which is the joint subject of this article.
 
 Either way it is this over inflated view of self that is most clearly evident when that view of self is challenged in the perception of the challenged!
