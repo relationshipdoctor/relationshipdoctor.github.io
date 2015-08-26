@@ -2,7 +2,7 @@
 layout:     post
 title:      "Love & Ego"
 header-img: "img/couple-kiss.jpg"
-subtitle: When Ego stides brashily through the front door, love floats softly and silently through the rear window
+subtitle: When Ego strides brashly through the front door, love floats softly and silently through the rear window
 ---
 
 
@@ -16,7 +16,7 @@ Amusing as this is at first hearing, this attitude can be highly destructive ove
 
 In a strong, positive relationship, both parties will be largely nurturing and solicitous of the needs of the other partner with minimal attention on self.
 
-When only one of the couple behave in this way, it can quickly become self effacing and repressive. But when both parties do it, the relationship flourishes as it mimicks the early stages of most relationships and is colloquially referred to as "cloud nine". From a technical viewpoint, the flows from each person are most mostly outward, _from each person to the other_. But in reality most of us would have no problem in recognising this for what it is - Love!
+When only one of the couple behave in this way, it can quickly become self effacing and repressive. But when both parties do it, the relationship flourishes as it mimics the early stages of most relationships and is colloquially referred to as "cloud nine". From a technical viewpoint, the flows from each person are most mostly outward, _from each person to the other_. But in reality most of us would have no problem in recognising this for what it is - Love!
 
 Sadly this "state of grace" can easily be interrupted, as life inevitably intervenes with it's problems, difficulties, temptations, financial, social and familial pressures. 
 
