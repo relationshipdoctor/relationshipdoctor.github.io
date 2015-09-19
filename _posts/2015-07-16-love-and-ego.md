@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Love & Ego"
+title:      "Love & Ego Part 1"
 header-img: "img/couple-kiss.jpg"
 subtitle: When Ego strides brashly through the front door, love floats softly and silently through the rear window
 ---
@@ -14,12 +14,12 @@ Now we all have certain strong views we may well be liable to "defend to death".
 
 Amusing as this is at first hearing, this attitude can be highly destructive over time in a relationship. 
 
-In a strong, positive relationship, both parties will be largely nurturing and solicitous of the needs of the other partner with minimal attention on self.
+In a strong, positive relationship, both parties will be largely nurturing and solicitous of the needs of the other partner with minimal attention on the self!
 
 When only one of the couple behave in this way, it can quickly become self effacing and repressive. But when both parties do it, the relationship flourishes as it mimics the early stages of most relationships and is colloquially referred to as "cloud nine". From a technical viewpoint, the flows from each person are most mostly outward, _from each person to the other_. But in reality most of us would have no problem in recognising this for what it is - Love!
 
 Sadly this "state of grace" can easily be interrupted, as life inevitably intervenes with it's problems, difficulties, temptations, financial, social and familial pressures. 
 
-Whenever this occurs, so the selflessness, the giving, the nurturing and as a consequence the love each has for the other can diminish and be in danger of being replaced, unless dealt with quickly, by a negative reaction of one or both parties, with the consequent upset and distress to both, and of course the rupture the previous high quality relationship.
+Whenever this occurs, so the selflessness, the giving, the nurturing and as a consequence the love each has for the other will diminish and be in danger of being replaced, unless dealt with quickly, by a negative reaction of one or both parties, with the consequent upset and distress to both, and of course the rupture of the previous high quality relationship.
 
 In view of the foregoing, we see that the _more each partner_ can keep the other partner at the centre of their world, to that degree the relationship will continue to flourish and the couple will flourish with it!
