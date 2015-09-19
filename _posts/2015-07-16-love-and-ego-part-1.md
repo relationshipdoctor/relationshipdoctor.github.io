@@ -5,7 +5,6 @@ header-img: "img/couple-kiss.jpg"
 subtitle: When Ego strides brashly through the front door, love floats softly and silently through the rear window
 ---
 
-
 It is correct to consider 'Ego' to be the 'Self' or 'I' and egotism to be an overinflated view of ones self - so it is egotism really which is the joint subject of this article.
 
 Either way it is this over inflated view of self that is most clearly evident when that view of self is challenged in the perception of the challenged!
@@ -23,3 +22,5 @@ Sadly this "state of grace" can easily be interrupted, as life inevitably interv
 Whenever this occurs, so the selflessness, the giving, the nurturing and as a consequence the love each has for the other will diminish and be in danger of being replaced, unless dealt with quickly, by a negative reaction of one or both parties, with the consequent upset and distress to both, and of course the rupture of the previous high quality relationship.
 
 In view of the foregoing, we see that the _more each partner_ can keep the other partner at the centre of their world, to that degree the relationship will continue to flourish and the couple will flourish with it!
+
+##### This is part 1 of a two part series. Click [here]({% post_url 2015-09-19-love-and-ego-part-2 %}) for part 2.
